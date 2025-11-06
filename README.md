@@ -2,7 +2,7 @@
 
 **FileShipper** is a web-based app for lightning-fast file transfers between devices on the same local network—no internet, no fuss. Just scan, send, and share.  
 
-![FileShipper Logo](static/images/logo.png)
+
 
 ---
 
