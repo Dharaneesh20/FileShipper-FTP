@@ -149,10 +149,6 @@ Go to **Files** → Select and upload files.
 
 ---
 
-## 📄 License
-
-Licensed under the MIT License.  
-See [LICENSE](LICENSE) for full details.
 
 ---
 
