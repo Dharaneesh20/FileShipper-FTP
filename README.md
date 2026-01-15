@@ -128,7 +128,6 @@ Go to **Files** → Select and upload files.
 - Check storage space 💾  
 - Ensure file size is within Django limits  
 - Stabilize your WiFi connection 🌐  
-
 ---
 
 ## 🛠️ Tech Stack
